@@ -1,2 +1,2 @@
-# WWALDO
+# WALDO
 Learning Lab
